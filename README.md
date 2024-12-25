@@ -21,7 +21,7 @@ VChat is a Django-based video chat application that integrates Agora SDK for rea
 
 # Download and Setup
 
--   git clone https://github.com/yankkv17/django-agora-video-chat/
+-   git clone https://github.com/yankkvx/django-agora-video-chat.git
 -   cd django-agora-video-chat
 -   Create virtual environment: python -m venv venv
 -   venv/scripts/activate
